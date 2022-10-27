@@ -1,0 +1,14 @@
+D:\KTPM\Remoting\PerfumeShared\bin\Debug\PerfumeShared.dll.config
+D:\KTPM\Remoting\PerfumeShared\bin\Debug\PerfumeShared.dll
+D:\KTPM\Remoting\PerfumeShared\bin\Debug\PerfumeShared.pdb
+D:\KTPM\Remoting\PerfumeShared\obj\Debug\PerfumeShared.csproj.AssemblyReference.cache
+D:\KTPM\Remoting\PerfumeShared\obj\Debug\PerfumeShared.csproj.CoreCompileInputs.cache
+D:\KTPM\Remoting\PerfumeShared\obj\Debug\PerfumeShared.dll
+D:\KTPM\Remoting\PerfumeShared\obj\Debug\PerfumeShared.pdb
+D:\KTPM\WindowService\PerfumeShared\bin\Debug\PerfumeShared.dll.config
+D:\KTPM\WindowService\PerfumeShared\bin\Debug\PerfumeShared.dll
+D:\KTPM\WindowService\PerfumeShared\bin\Debug\PerfumeShared.pdb
+D:\KTPM\WindowService\PerfumeShared\obj\Debug\PerfumeShared.csproj.AssemblyReference.cache
+D:\KTPM\WindowService\PerfumeShared\obj\Debug\PerfumeShared.csproj.CoreCompileInputs.cache
+D:\KTPM\WindowService\PerfumeShared\obj\Debug\PerfumeShared.dll
+D:\KTPM\WindowService\PerfumeShared\obj\Debug\PerfumeShared.pdb

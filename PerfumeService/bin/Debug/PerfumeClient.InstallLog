@@ -1,0 +1,6 @@
+﻿Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeClient.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeClient.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeClient.exe assembly.

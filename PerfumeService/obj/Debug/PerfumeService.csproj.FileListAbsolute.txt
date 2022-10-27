@@ -1,0 +1,14 @@
+D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe.config
+D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.pdb
+D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeShared.dll
+D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeShared.pdb
+D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeShared.dll.config
+D:\KTPM\WindowService\PerfumeService\obj\Debug\PerfumeService.csproj.AssemblyReference.cache
+D:\KTPM\WindowService\PerfumeService\obj\Debug\PerfumeService.csproj.SuggestedBindingRedirects.cache
+D:\KTPM\WindowService\PerfumeService\obj\Debug\PerfumeService.csproj.CoreCompileInputs.cache
+D:\KTPM\WindowService\PerfumeService\obj\Debug\PerfumeService.csproj.CopyComplete
+D:\KTPM\WindowService\PerfumeService\obj\Debug\PerfumeService.exe
+D:\KTPM\WindowService\PerfumeService\obj\Debug\PerfumeService.pdb
+D:\KTPM\WindowService\PerfumeService\obj\Debug\PerfumeService.ProjectInstaller.resources
+D:\KTPM\WindowService\PerfumeService\obj\Debug\PerfumeService.csproj.GenerateResource.cache

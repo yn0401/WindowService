@@ -1,0 +1,368 @@
+﻿Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+An exception occurred during the uninstallation of the PerfumeService.ProjectInstaller installer.
+System.ArgumentException: The savedState dictionary contains inconsistent data and might have been corrupted.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Warning: The source PerfumeServices is not registered on the local machine.
+Service PerfumeServices is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Warning: The source PerfumeServices is not registered on the local machine.
+Service PerfumeServices is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Warning: The source PerfumeServices is not registered on the local machine.
+Service PerfumeServices is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Warning: The source PerfumeServices is not registered on the local machine.
+Service PerfumeServices is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Warning: The source PerfumeServices is not registered on the local machine.
+Service PerfumeServices is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Service PerfumeServices has been successfully installed.
+Creating EventLog source PerfumeServices in log Application...
+Committing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Service PerfumeServices is being removed from the system...
+Service PerfumeServices was successfully removed from the system.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Service PerfumeServices has been successfully installed.
+Creating EventLog source PerfumeServices in log Application...
+Committing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Service PerfumeServices is being removed from the system...
+Service PerfumeServices was successfully removed from the system.
+Attempt to stop service PerfumeServices.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Service PerfumeServices has been successfully installed.
+Creating EventLog source PerfumeServices in log Application...
+Committing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Creating EventLog source PerfumeServices in log Application...
+Rolling back assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Restoring event log to previous state for source PerfumeServices.
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Service PerfumeServices is being removed from the system...
+Service PerfumeServices was successfully removed from the system.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Service PerfumeServices has been successfully installed.
+Creating EventLog source PerfumeServices in log Application...
+Committing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Service PerfumeServices is being removed from the system...
+Service PerfumeServices was successfully removed from the system.
+Attempt to stop service PerfumeServices.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Service PerfumeServices has been successfully installed.
+Creating EventLog source PerfumeServices in log Application...
+Committing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Uninstalling assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Removing EventLog source PerfumeServices.
+Service PerfumeServices is being removed from the system...
+Service PerfumeServices was successfully removed from the system.
+Installing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog
+Installing service PerfumeServices...
+Service PerfumeServices has been successfully installed.
+Creating EventLog source PerfumeServices in log Application...
+Committing assembly 'D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.exe
+   logfile = D:\KTPM\WindowService\PerfumeService\bin\Debug\PerfumeService.InstallLog

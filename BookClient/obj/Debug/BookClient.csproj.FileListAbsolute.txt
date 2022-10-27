@@ -1,0 +1,11 @@
+D:\KTPM\LINQ\BookClient\obj\Debug\BookClient.csproj.AssemblyReference.cache
+D:\KTPM\LINQ\BookClient\obj\Debug\BookClient.csproj.SuggestedBindingRedirects.cache
+D:\KTPM\LINQ\BookClient\obj\Debug\BookClient.FrmPerfume.resources
+D:\KTPM\LINQ\BookClient\obj\Debug\BookClient.Properties.Resources.resources
+D:\KTPM\LINQ\BookClient\obj\Debug\BookClient.csproj.GenerateResource.cache
+D:\KTPM\LINQ\BookClient\obj\Debug\BookClient.csproj.CoreCompileInputs.cache
+D:\KTPM\LINQ\BookClient\bin\Debug\BookClient.exe.config
+D:\KTPM\LINQ\BookClient\bin\Debug\BookClient.exe
+D:\KTPM\LINQ\BookClient\bin\Debug\BookClient.pdb
+D:\KTPM\LINQ\BookClient\obj\Debug\BookClient.exe
+D:\KTPM\LINQ\BookClient\obj\Debug\BookClient.pdb
